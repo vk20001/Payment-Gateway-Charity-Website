@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Sans Serif' ,cursive;
+    font-family: 'Sans Serif';
 }
 .logo{
     color: #fff;
@@ -32,9 +32,8 @@ body{
     line-height: 3.25rem;
     margin-bottom: 2rem;
     color: #fff;
-   
-  
-  }
+    font-style: cursive;
+   }
 
   .row h1, .row h2 {
     text-align: center;
@@ -62,7 +61,7 @@ body{
   font-size:20px;
   background:linear-gradient(141deg, #0fb8ad 0%, #1fc8db 51%, #2cb5e8 75%);
   color:white;
-  font-family:cursive;
+  font-family: sans-serif;
   box-sizing:border-box;
 }
 /* Blog Section */
